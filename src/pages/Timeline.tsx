@@ -2,8 +2,7 @@ import { FormEvent, useState } from "react";
 import { Header } from "../components/Header";
 import { Separator } from "../components/Separator";
 import { Tweet } from "../components/Tweet";
-
-import './TimeLine.css';
+import './Timeline.css';
 
 
 
